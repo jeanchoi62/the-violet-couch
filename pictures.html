@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Pictures!</title>
+    <link type="text/css" rel="stylesheet" href="styles/pictures.css">
+</head>
+<body>
+    <p id="header"></p>
+    <h1 id="pictures-header">Random Pictures :<span>&#41;</span> </h1>
+
+    <!--
+    <div id="pictures-carousel">
+        <div class="picture">
+            <img id="displayed-image" src="">
+        </div>
+    </div>
+    -->
+
+
+    <div id="pictures-container">
+        <div class="picture">
+            <img id="displayed-image" src="/images/personal-pictures/me-and-daisy.png">
+        </div>
+        <!--
+        <div id="firstchild" class="picture">
+            <img src="images/personal-pictures/bullet.jpeg">
+        </div>
+        <div class="picture">
+            <img src="images/personal-pictures/facetime.jpeg">
+        </div>
+        <div class="picture">
+            <img src="images/personal-pictures/heart-ears.jpeg">
+        </div>
+        <div class="picture">
+            <img src="images/personal-pictures/me-and-daisy.png">
+        </div>
+        <div class="picture">
+            <img src="images/personal-pictures/wedding.jpeg">
+        </div>
+        -->
+        <div class="buttons">
+            <button id="picture-left-button">&#60;</button>
+            <button id="picture-right-button">&#62;</button>
+        </div>
+    </div>
+    
+
+
+
+
+   
+
+    <!-- DESKTOP display carousel of pictures -->
+    <!-- 
+    Display current picture
+    click on side to go to next
+    -->
+
+
+    <!-- MOBILE display carousel of pictures -->
+
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/pictures.js"></script>
+    <script> 
+        $(function(){
+          $("#header").load("header.html"); 
+        });
+    </script> 
+</body>
+</html>
