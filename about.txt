@@ -1,0 +1,14 @@
+hero image: 
+https://www.pexels.com/photo/abstract-graphic-design-11829404/
+
+article #1 image: 
+https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-a-look-inside-how-ai-microchips-are-designed-it-was-created-by-champ-panupong-techawongthawon-as-part-of-the-v-17483848/
+
+article #2 image: 
+https://www.pexels.com/photo/digital-dreamy-landscape-of-pool-and-sea-at-sunset-11592813/
+
+article #3 image: 
+https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-how-ai-tools-can-democratise-education-and-make-learning-more-efficient-it-was-created-by-martina-stiftinger-a-18069231/
+
+burning rope: 
+https://www.popularmechanics.com/science/math/a24208/riddle-of-the-week-6/
