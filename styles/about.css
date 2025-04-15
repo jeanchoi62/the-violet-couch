@@ -1,0 +1,68 @@
+.about-container {
+    margin: 10% 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #585473;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.about-container  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    
+    margin-top: 0;
+}
+
+.about-container img {
+    width: 400px;
+    margin-left: auto;
+}
+
+.about-description {
+    position: relative;
+}
+
+.subscribe-container {
+    font-family: 'Courier New', Courier, monospace;
+    color: #585473;
+    margin-left: 55px;
+    margin-right: 55px;
+    width: 50%;
+    height: 500px;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 5px;
+}
+
+form input {
+    margin-bottom: 10px;
+}
+
+#subscriber-name {
+    width: 25%;
+}
+
+#subscriber-email {
+    width: 75%;
+}
+
+#subscriber-optional {
+    height: 100px;
+    margin-bottom: 30px;
+
+}
+
+input[type="text"]::placeholder {
+
+    /* Firefox, Chrome, Opera */
+    
+    text-align:justify;
+    
+    }
