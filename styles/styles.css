@@ -88,7 +88,7 @@ RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT A
 
 .recent-articles {
     color: #585473;
-    margin-top: 70px;
+    margin-top: 150px;
     margin-left: 55px;
     margin-right: 55px;
 }
@@ -144,7 +144,7 @@ RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT A
 }
 
 .riddle-container {
-  margin: 100px 55px;
+  margin: 200px 55px;
   font-family: Arial, Helvetica, sans-serif;
   color: #585473;
   display: grid;
@@ -169,17 +169,60 @@ RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT ARTICLES - RECENT A
 .riddle-button-container {
   position: absolute;
   bottom: 0;
+  overflow: hidden;
 }
 
 .riddle-button-container button {
   margin-right: 10px;
 }
 
+.reader-pics-container {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #585473;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 200px;
+}
 
+.reader-pics-container h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #585473;
+}
+
+.footer-container {
+  border-top: 2px solid rgb(184, 184, 184);
+  position: relative;
+  padding-top: 20px;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+.footer-align-right {
+  text-align: right;
+  font-family: 'Courier New', Courier, monospace;
+  color: #9d95cc;
+}
+
+.footer-container img {
+  width: 20px;
+  bottom: 0;
+}
+
+.footer-logo-icons {
+  position: absolute;
+  margin-left: 2%;
+  margin-top: 30px;
+}
+
+.footer-logo-icons img {
+  padding: 5px;
 }
 
 
-
+}
 
 
 /************************************************************************************************************************
